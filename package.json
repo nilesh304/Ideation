@@ -1,0 +1,28 @@
+{
+  "name": "idea",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "^5.1.0",
+    "next-route": "^2.0.0",
+    "next-routes": "^1.4.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "route": "^0.2.5",
+    "semantic-ui-react": "^0.79.1",
+    "yarn": "^1.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "route.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
