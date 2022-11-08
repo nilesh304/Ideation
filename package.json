@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "next": "^5.1.0",
+    "next": "^13.0.2",
     "next-route": "^2.0.0",
     "next-routes": "^1.4.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "route": "^0.2.5",
     "semantic-ui-react": "^0.79.1",
     "yarn": "^1.6.0"
